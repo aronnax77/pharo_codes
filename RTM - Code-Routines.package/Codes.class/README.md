@@ -1,0 +1,1 @@
+This class is intended as a place within Pharo where I can collect together any codes of interest which have been run in the Playground as exercises.
